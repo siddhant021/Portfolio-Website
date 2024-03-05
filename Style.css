@@ -301,7 +301,7 @@
   .works .work-item img {
     width: 100%;
     height: 300px;
-    object-fit: contain;
+    object-fit: cover;
     border-radius: 15px;
   }
   .works .work-item .hover-items {
